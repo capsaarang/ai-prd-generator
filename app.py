@@ -9,7 +9,6 @@ st.set_page_config(
     page_icon="📋",
     layout="wide"
 )
-
 # Custom CSS
 st.markdown("""
 <style>
