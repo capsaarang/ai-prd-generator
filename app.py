@@ -203,7 +203,6 @@ def generate_prd(feature_request: str, product_context: str, target_users: str,
     
     system_prompt = """You are a senior Technical Product Manager at a top-tier tech company. 
 Your job is to turn raw feature requests into clear, structured Product Requirements Documents (PRDs).
-
 Output a PRD with exactly these sections, using this format:
 
 ## Overview
