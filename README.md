@@ -58,7 +58,6 @@ streamlit run app.py
 5. Deploy
 
 ## Project context
-
 Built as part of my exploration into AI-powered product tooling. The goal was to demonstrate how LLMs can accelerate early-stage product work — specifically the requirements gathering and documentation phase that typically takes PMs hours to complete manually.
 
 This project complements [Forensic-AI](https://github.com/capsaarang/forensic-ai), an agentic RAG pipeline for financial document auditing.
