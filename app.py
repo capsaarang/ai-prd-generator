@@ -265,7 +265,6 @@ Output only the PRD. No preamble."""
 def count_sections(prd_text: str) -> int:
     return prd_text.count("##")
 
-
 # ── HEADER ──────────────────────────────────────────────────────────────────
 st.markdown("""
 <div style="padding: 2rem 0 1rem 0;">
