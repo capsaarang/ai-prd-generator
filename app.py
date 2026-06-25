@@ -336,8 +336,6 @@ with left_col:
         <span class="tag">Subscription billing</span>
     </div>
     """, unsafe_allow_html=True)
-
-
 with right_col:
     if generate_btn:
         if not feature_request.strip():
