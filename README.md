@@ -14,9 +14,7 @@ Paste a feature request, add context about your product and users, and get a com
 - Edge cases & risks
 - Out of scope definition
 - Open questions
-
 ## Built with
-
 - [Streamlit](https://streamlit.io/) — UI and deployment
 - [Anthropic Claude API](https://www.anthropic.com/) — PRD generation
 - Python 3.9+
