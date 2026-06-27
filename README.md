@@ -3,9 +3,7 @@
 Turn a rough feature idea into a structured Product Requirements Document in seconds using Claude AI.
 
 ## What it does
-
 Paste a feature request, add context about your product and users, and get a complete PRD with:
-
 - Problem statement
 - Goals & success metrics
 - User stories
