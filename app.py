@@ -45,7 +45,6 @@ st.markdown("""
         margin-bottom: 2rem;
         font-weight: 400;
     }
-
     .accent {
         color: #4F8EF7;
     }
