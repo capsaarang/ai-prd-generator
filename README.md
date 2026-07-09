@@ -18,7 +18,6 @@ Paste a feature request, add context about your product and users, and get a com
 - Python 3.9+
 
 ## Run locally
-
 **1. Clone the repo**
 ```bash
 git clone https://github.com/capsaarang/ai-prd-generator.git
